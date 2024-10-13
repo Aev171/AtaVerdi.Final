@@ -1,0 +1,6 @@
+Class: horse, Confidence: 0.91, Box: [189, y=128, w=225, h=246]
+Class: horse, Confidence: 0.90, Box: [-4, y=153, w=213, h=207]
+Class: horse, Confidence: 0.75, Box: [362, y=145, w=205, h=216]
+Class: horse, Confidence: 0.98, Box: [300, y=95, w=195, h=257]
+Class: horse, Confidence: 0.98, Box: [300, y=95, w=195, h=257]
+Class: horse, Confidence: 0.98, Box: [300, y=95, w=195, h=257]
